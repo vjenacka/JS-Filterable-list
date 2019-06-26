@@ -1,0 +1,1 @@
+Mini JS project with Materialize CSS.
